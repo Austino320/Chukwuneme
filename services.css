@@ -1,0 +1,49 @@
+
+body, html{
+    height: 100%;
+    margin: 0;
+    background-image: url(img/Screenshot_20240515-151559.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    color: white;
+    position: relative;
+    font-family: Lucida Sans Unicode;
+  
+}
+   
+.logo-img{
+    width: 60px;
+    margin-top: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+.services, ul{
+    font-size: 25px; 
+    margin-left: 24%;
+    margin-top: 5px;
+    list-style: none; 
+    font-family: Lucida Sans Unicode;
+}
+
+h2{
+    position: fixed;
+    top: 20%;
+    margin-left: 5%;
+    font-family: Lucida Sans Unicode;
+    font-size: 23px;
+}
+
+.content{
+    position: fixed;
+    top: 25%;
+    margin-left: 5%;
+    font-size: 22px;
+    font-family: Lucida Sans Unicode;
+}
+
+li{
+    margin-left: -0%;
+}

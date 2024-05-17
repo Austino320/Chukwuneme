@@ -1,0 +1,70 @@
+
+body, html {
+    height: 100%;
+    margin: 0;
+    background-image: url(img/Screenshot_20240515-163847.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    color: white;
+    position: relative;
+    font-family: Lucida Sans Unicode;
+  
+}
+
+.logo-img{
+    width: 60px;
+    margin-top: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+ul{
+    margin-left: 320px;
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    
+}
+   
+nav{
+    display: flex;
+}
+
+li{
+    padding: 2px 60px;
+    font-size: 20px;
+}
+
+li{
+    cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+    color: #ffff;
+}
+
+h1{
+    position: fixed;
+    top: 40%;
+    margin-left: 25%;
+    font-size: 45px;
+}
+
+h6{
+    position: fixed;
+    top: 47%;
+    margin-left: 31%;
+    font-size: 25px;
+}
+
+p{
+    position: fixed;
+    top: 59%;
+    margin-left: 26%;
+    font-size: 25px;
+}
+
+
